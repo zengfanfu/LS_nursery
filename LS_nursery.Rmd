@@ -1,0 +1,38 @@
+---
+title: "托幼机构文献阅读总结"
+author:
+  - 曾同志
+documentclass: ctexart
+geometry: "left=2.5cm,right=2cm,top=3cm,bottom=2.5cm"
+keywords:
+  - 托幼机构文献
+  - 空气污染
+bibliography: nursery.bib
+csl: "china-national-standard-gb-t-7714-2015-numeric.csl"
+output:
+  rticles::ctex:
+    fig_caption: yes
+    number_sections: yes
+    toc: yes
+---
+
+# What do we know about indoor air quality of nurseries? A review of the literature
+
+src[@zhangWhatWeKnow]
+
+## 基信息本
+
+1. 文章类型：综述
+2. 年代：2021年
+3. 影响因子：Q3 2.47
+
+## 研究目的
+针对托幼机构(nursery)的室内空气污染研究很匮乏，但除了在家里，学生大部分时间都花在了学校，因此，本研究回顾总结了针对i托幼机构室内空气污染的研究。-->哮喘，呼吸系统疾病。
+
+## 研究结论
+托幼机构空气污染往往超过推荐值(guidlines)。
+
+
+
+
+
